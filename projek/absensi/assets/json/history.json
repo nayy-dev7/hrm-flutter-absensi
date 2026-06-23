@@ -1,0 +1,14 @@
+[
+  {
+    "tanggal": "2026-06-11",
+    "checkIn": "08:00",
+    "checkOut": "16:00",
+    "status": "Hadir"
+  },
+  {
+    "tanggal": "2026-06-10",
+    "checkIn": "08:12",
+    "checkOut": "16:05",
+    "status": "Terlambat"
+  }
+]
